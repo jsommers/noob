@@ -1,7 +1,6 @@
 # nooBpf
 
-This repo contains code for the `noobflow` tool.  This is largely from
-the `js` branch on https://github.com/NolanRudolph/eBPF-Flow-Collector
+This repo contains code for the `noobflow` tool.  
 
 `noobprobe`, aka `ELF` can be found in https://github.com/jsommers/ELF
 
