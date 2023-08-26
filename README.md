@@ -1,6 +1,7 @@
 # nooBpf
 
-This repo contains code for the `noobflow` tool.  
+This repo contains code for the `noobflow` tool, largely written by Nolan
+Rudolph.
 
 `noobprobe`, aka `ELF` can be found in https://github.com/jsommers/ELF
 
